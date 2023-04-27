@@ -1,4 +1,4 @@
-# itste-code
+# image text to speech conversion-code
 #This repository contains python code of my project "Image to Speech Extraction System".
 
 #THE CODE STARTS FROM HERE
